@@ -1,0 +1,14 @@
+@media only screen and (max-width: 1024px){
+	/* generated in /home/mk000712/public_html/wp-content/themes/buro/assets/custom-styles/general-custom-styles-responsive.php buro_mikado_design_responsive_styles function */
+.mkd-section.mkd-parallax-section-holder,.touch .mkd-parallax-section-holder.mkd-parallax-section-holder-touch-disabled { height: auto !important;min-height: 400px;}
+
+/* generated in /home/mk000712/public_html/wp-content/themes/buro/framework/modules/header/custom-styles/header.php buro_mikado_header_top_bar_responsive_styles function */
+.mkd-top-bar { height: 0;display: none;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	}
+
+@media only screen and (max-width: 480px){
+	}
